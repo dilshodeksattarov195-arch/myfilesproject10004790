@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderstringify",
+        "uuid": 27671830,
+        "checksum": "xspmp7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
